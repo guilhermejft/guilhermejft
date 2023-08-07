@@ -1,6 +1,4 @@
-My name is Guilherme,
-
-I'm currently learning Java :)
+Hello
 
 <!---
 guilhermejft/guilhermejft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
